@@ -4,10 +4,16 @@ import random
 
 class Board():
     def __init__(self):
-        pass
+        self._piles = []
 
     def to_string(self):
         pass
 
     def apply(self, move):
+        pass
+
+    def is_empty(self):
+        pass
+
+    def _prepare(self):
         pass
