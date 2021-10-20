@@ -33,5 +33,6 @@ root                    (project root folder)
 * Python 3.8.0
 
 ## Authors
+Jennifer Clark Jennifer.C.Schultz@gmail.com
 ---
 * # TODO: Add your name and email here
